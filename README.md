@@ -29,7 +29,7 @@ The focus was on applying the **end-to-end ML workflow**: data cleaning, preproc
   - EDA to discover insights (e.g., seasonal trends, customer behavior).  
   - Model training & evaluation using classification algorithms.  
 - **Results**: Expanded the project scope from basic cleaning & EDA to full model training and performance evaluation.  
-- 📎 [View Project]([[./Hotel_Bookings](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings)](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings.git))
+- 📎 [View Project](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings)
 
 ---
 
@@ -40,7 +40,7 @@ The focus was on applying the **end-to-end ML workflow**: data cleaning, preproc
   - Exploratory Data Analysis (EDA) with visualizations.  
   - Model training & evaluation using classification algorithms (Logistic Regression, Random Forest, Decision Tree).  
 - **Results**: Compared models based on accuracy, precision, recall, and F1-score.  
-- 📎 [View Project](./Titanic)
+- 📎 [View Project](https://github.com/ai-abanoubmichel/gtc_ml_project2_Titanic_dataset)
 
 ---
 
