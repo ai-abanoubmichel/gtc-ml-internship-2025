@@ -44,6 +44,18 @@ The focus was on applying the **end-to-end ML workflow**: data cleaning, preproc
 
 ---
 
+- ## 3. Housing Prices Prediction
+- **Objective:** Predict California housing prices using regression models.  
+- **Techniques:**  
+  - Data cleaning and missing value handling.  
+  - EDA and visualization (correlations, location insights).  
+  - Regression models: Linear Regression, Decision Tree, Random Forest, CatBoost, XGBoost, LightGBM, SVR.  
+  - Hyperparameter tuning with GridSearchCV.  
+- **Results:** CatBoost Regressor achieved the best performance (R² ≈ 0.84, lowest MAE).  
+📎 [View Project](https://github.com/ai-abanoubmichel/gtc-ml-project3-housing-prices)
+
+---
+
 ## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Jupyter Notebook  
