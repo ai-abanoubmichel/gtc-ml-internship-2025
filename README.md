@@ -54,6 +54,16 @@ The focus was on applying the **end-to-end ML workflow**: data cleaning, preproc
 - **Results:** CatBoost Regressor achieved the best performance (R² ≈ 0.84, lowest MAE).  
 📎 [View Project](https://github.com/ai-abanoubmichel/gtc-ml-project3-housing-prices)
 
+- ## 4. Diabetes Prediction  
+- **Objective:** Predict diabetes outcomes using classification models.  
+- **Techniques:**  
+  - Handled imbalanced data for fairer predictions.  
+  - EDA and visualization (outcome distribution, feature distributions, heatmap, countplots, pairplots).  
+  - Classification models: Perceptron, Logistic Regression, Decision Tree, Random Forest, SVC, KNN, XGBoost, LightGBM, CatBoost.  
+  - Hyperparameter tuning with RandomizedSearchCV & GridSearchCV.  
+- **Results:** CatBoost Classifier achieved the best performance (**Accuracy ≈ 81%**).  
+📎 [View Project](https://github.com/ai-abanoubmichel/gtc-ml-project4-diabetes-prediction)  
+
 ---
 
 ## 🛠️ Tools & Technologies
